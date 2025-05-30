@@ -2,18 +2,18 @@
   "name": "react",
   "version": "1.0.0",
   "description": "hello its me akshat",
-  "keywords": [
-    "akshat",
-    "tiwari"
-  ],
-  "homepage": "https://github.com/akshattiwari0055/Namaste-React#readme",
-  "bugs": {
-    "url": "https://github.com/akshattiwari0055/Namaste-React/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/akshattiwari0055/Namaste-React.git"
-  },
+"keywords": [
+  "akshat",
+  "tiwari"
+],
+"homepage": "https://github.com/akshattiwari0055/BiteExpress#readme",
+"bugs": {
+  "url": "https://github.com/akshattiwari0055/BiteExpress/issues"
+},
+"repository": {
+  "type": "git",
+  "url": "git+https://github.com/akshattiwari0055/BiteExpress.git"
+},
   "license": "ISC",
   "author": "Akshat Tiwari",
   "type": "commonjs",
